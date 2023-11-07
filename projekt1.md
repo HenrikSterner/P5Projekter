@@ -4,7 +4,7 @@
 ## Indledning
 Nærværende dokument udgør en beskrivelse af et større projekt, hvor I skal vælge et af nedenstående temaer og udvikle et koncept/en ide, som I skal implementere. Som udgangspunkt vælger I selv sproget I vil lave det i. 
 
-I er velkomne til at arbejde i grupper af 2 til 3 personer eller individuelt. Grunden til I i ikke må være flere, at sådan er det også til eksamen. 
+I er velkomne til at arbejde i grupper af 2 til 4 personer eller individuelt. Til eksamensprojektet må I dog kun være 2 til 3 personer. 
 
 # Krav til programmet
 Programmet bør inddrage nogle af de strukturer, som vi har arbejdet med i undervisningen. Herunder
@@ -37,7 +37,7 @@ synopsens 5-8 sider).
 I skal vælge et af nedenstående temaer. 
 
 ### Tema 1: Spil
-Lav en prototype på et spil. Det kan være et brætspil, som I digitaliserer. I må gerne lave et spil, som I selv har fundet på. Det kan også være et spil, som I har fundet på nettet, som I så videreudvikler.
+Lav en prototype på et spil. Det kan være et brætspil, som I digitaliserer. I må gerne lave et spil, som I selv har fundet på. Det kan også være et spil, som eksisterer allerede, men som I så videreudvikler på.
 
 Spillet bør rumme muligheden for enten at spille mod en anden spiller eller mod computeren.
 
@@ -51,6 +51,8 @@ Det kan eksempelvis være:
 * Modellering og beregning af noget i matematik. F.eks. regression eller finde nulpunkter for funktioner. 
 * En samfundsfaglig problemstilling 
 * Et bog eller et digt i dansk
+
+Krav: Der skal gerne være en grafisk brugergrænseflade. 
 
 ### Tema 3: Simpel Chatbot
 I det følgende tema skal I prøve at implementere en simpel chatbot. 
