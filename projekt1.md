@@ -1,4 +1,4 @@
-# Et større projekt i Programmering
+# Et lidt større projekt i programmering
 ### Af Henrik Sterner (hst@nextkbh.dk)
 
 ## Indledning
@@ -6,9 +6,12 @@ Nærværende dokument udgør en beskrivelse af et større projekt, hvor I skal v
 
 I er velkomne til at arbejde i grupper af 2 til 4 personer eller individuelt. Til eksamensprojektet må I dog kun være 2 til 3 personer. 
 
-Ved afslutningen af projektet skal I lave en lille fremlæggelse på 10 min pr grupper om projektet og hvad I har lavet. 
+Ved afslutningen af projektet skal I 
 
-# Krav til programmet
+- aflevere en rapport og koden for programmet
+- lave en lille fremlæggelse på 10 min pr grupper om projektet og hvad I har lavet. 
+
+## Krav til programmet
 Programmet bør inddrage nogle af de strukturer, som vi har arbejdet med i undervisningen. Herunder
 
 1. Variabler:
@@ -18,10 +21,15 @@ Programmet bør inddrage nogle af de strukturer, som vi har arbejdet med i under
 5. Arrays/lister
 
 
-## Struktur for rapporten
-Udover programmet skal I også skrive en rapport på 5-8 sider pr gruppe, kaldet en synopsis, der dokumenterer jeres arbejde. Rapporten skal indeholde en beskrivelse af jeres program, en beskrivelse af jeres arbejde med programmet, en beskrivelse af jeres arbejde i gruppen, en beskrivelse af jeres arbejde med rapporten og en konklusion.
 
-Brug gerne pseudokode og flowcharts til at beskrive jeres program. Husk at tænke formidlingsaspektet ind. Den bedste måde at formidle kode på, er ikke nødvendigvis at formidle på kodesprog.
+## Struktur for rapporten
+Udover programmet skal I også skrive en rapport på 5-8 sider pr gruppe, kaldet en synopsis, der dokumenterer jeres arbejde og brug af de forskellige strukturerer. 
+
+Rapporten kan fokusere på følgende: 
+- en beskrivelse af jeres program, 
+- en beskrivelse af jeres arbejde med programmet. 
+
+Brug gerne pseudokode og flowcharts til at beskrive jeres program. Husk at tænke formidlingsaspektet ind. Den bedste måde at formidle kode på, er ikke nødvendigvis at formidle på kodeniveau.
 
 Herunder et forslag til en struktur for rapporten. I kan vælge at følge den eller lave jeres egen:
 
@@ -36,7 +44,7 @@ Herunder et forslag til en struktur for rapporten. I kan vælge at følge den el
 synopsens 5-8 sider).
 
 ## Valg af temaer
-I skal vælge et af nedenstående temaer. 
+I kan vælge et af nedenstående temaer. 
 
 ### Tema 1: Spil
 Lav en prototype på et spil. Det kan være et brætspil, som I digitaliserer. I må gerne lave et spil, som I selv har fundet på. Det kan også være et spil, som eksisterer allerede, men som I så videreudvikler på.
