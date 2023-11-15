@@ -1,10 +1,12 @@
 # Et større projekt i Programmering
-### Af Henrik Sterner
+### Af Henrik Sterner (hst@nextkbh.dk)
 
 ## Indledning
 Nærværende dokument udgør en beskrivelse af et større projekt, hvor I skal vælge et af nedenstående temaer og udvikle et koncept/en ide, som I skal implementere. Som udgangspunkt vælger I selv sproget I vil lave det i. 
 
 I er velkomne til at arbejde i grupper af 2 til 4 personer eller individuelt. Til eksamensprojektet må I dog kun være 2 til 3 personer. 
+
+Ved afslutningen af projektet skal I lave en lille fremlæggelse på 10 min pr grupper om projektet og hvad I har lavet. 
 
 # Krav til programmet
 Programmet bør inddrage nogle af de strukturer, som vi har arbejdet med i undervisningen. Herunder
@@ -75,3 +77,8 @@ I sin enkleste form virker ELIZA på følgende måde:[3]
 12.	Svaret vendes, således at 1. person (jeg, mig) erstattes af 2. person (du, dig) og modsat. (På engelsk kan denne udskiftning også omfatte verbet, som bøjes efter stedordet; I am, you are.)
 
 Udover selve chatbotten må I også meget gerne lave en simpel brugergrænseflade.
+
+
+
+### Tema 4: Et selvvalgt projekt
+Hvis I har en god ide, som I gerne vil forsøge at implementere, så kom og snak, så finder vi ud af det :-).
