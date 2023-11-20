@@ -64,7 +64,19 @@ Det kan eksempelvis være:
 
 Krav: Der skal gerne være en grafisk brugergrænseflade. 
 
-### Tema 3: Simpel Chatbot
+### Tema 3: Din favorit algoritme
+En  algoritme er en sekvens af instruktioner, der løser en opgave eller et problem. 
+I denne opgave skal du udvælge en konkret algoritme, som du forsøger at implementere og evt visualisere hvis muligt. Eksempler på typiske algoritmer:
+
+- Sortering af tal 
+- Søge efter et element i en liste.  
+- Sammenlign hvor ens to tekststrenge er
+- Find korteste vej i grafer
+- osv.
+
+Som en del af opgaven bør du overveje hvorledes din algoritme kan benyttes eller inddrages i applikationer i den virkelige verden. 
+
+### Tema 4: Simpel Chatbot
 I det følgende tema skal I prøve at implementere en simpel chatbot. 
 
 Et eksempel på en sådan er Eliza Chatbot. 
@@ -88,5 +100,5 @@ Udover selve chatbotten må I også meget gerne lave en simpel brugergrænseflad
 
 
 
-### Tema 4: Et selvvalgt projekt
+### Tema 5: Et selvvalgt projekt
 Hvis I har en god ide, som I gerne vil forsøge at implementere, så kom og snak, så finder vi ud af det :-).
