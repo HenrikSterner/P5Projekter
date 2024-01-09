@@ -23,7 +23,7 @@ Programmet bør inddrage nogle af de strukturer, som vi har arbejdet med i under
 
 
 ## Struktur for rapporten
-Udover programmet skal I også skrive en rapport på 5-8 sider pr gruppe, kaldet en synopsis, der dokumenterer jeres arbejde og brug af de forskellige strukturerer. 
+Udover programmet skal I også skrive en rapport på 3-5 sider pr gruppe (max 3, hvis I er alene, max 4 hvis I er to og max 5 hvis I er mere end 2), kaldet en synopsis, der dokumenterer jeres arbejde og brug af de forskellige strukturerer. 
 
 Rapporten kan fokusere på følgende: 
 - en beskrivelse af jeres program, 
@@ -40,8 +40,7 @@ Herunder et forslag til en struktur for rapporten. I kan vælge at følge den el
 5. Dokumentation af selve programmet (overordnet beskrivelse af programmet, detaljeret dokumentation af dele af programmet (flowchart, pseudokode), variabler, objekter, events, igen meget afhængigt af hvad det er for et program)
 6. Test af programmet
 7. Konklusion
-8. Bilag (det er godt at få koden placeret i bilag, da den muligvis ikke ville kunne indeholdes indenfor
-synopsens 5-8 sider).
+8. Bilag (det er godt at få koden placeret i bilag, da den muligvis ikke ville kunne indeholdes indenfor de angivne sider).
 
 ## Valg af temaer
 I kan vælge et af nedenstående temaer. 
